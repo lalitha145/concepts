@@ -14,7 +14,8 @@ Examples: MongoDB, Couchbase.
 
 A typical document will look like the following:
 
-` 
+```
+
 {
   "_id": "12345",
   "name": "foo bar",
@@ -27,7 +28,8 @@ A typical document will look like the following:
   },
   "hobbies": ["music", "guitar", "reading"]
 }
-`
+
+```
 
 **Key-Value Databases:** Store data as key-value pairs. Examples: Amazon DynamoDB, Redis.
 
