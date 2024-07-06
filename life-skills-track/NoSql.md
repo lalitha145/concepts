@@ -8,7 +8,7 @@ NoSQL databases, short for "not only SQL," store data differently than tradition
 
 NoSQL databases refer to non-relational databases that store data in a flexible, natural way. They are not restricted to SQL and can handle various types of data formats and structures.
 
-# Types of NoSQL Databases
+## Types of NoSQL Databases
 **Document-Oriented Databases:** Store data in documents similar to JSON objects.
 Examples: MongoDB, Couchbase.
 
@@ -62,7 +62,7 @@ Below is an example of how data is stored:
 
 **Multi-Model Databases:** Support multiple types of data models. Examples: CosmosDB, ArangoDB.
 
-# Brief History of NoSQL Databases
+## Brief History of NoSQL Databases
 
 NoSQL databases emerged in the late 2000s due to the need to store and manage large volumes of diverse data efficiently. They gained popularity as the cost of storage decreased and applications required more flexible data management solutions.
 
@@ -80,7 +80,7 @@ NoSQL databases emerged in the late 2000s due to the need to store and manage la
 - **High Availability**: Ensures data is always accessible.
 - **BASE Compliance**: Basic Availability, Soft state, Eventual consistency.
 
-# Relational Database vs NoSQL Database Example
+## Relational Database vs NoSQL Database Example
 
 In a relational database (RDBMS), data about users and their hobbies would be stored in separate tables, requiring joins to retrieve all information. In a NoSQL document database, all related information can be stored in a single document, making queries faster and simpler.
 
@@ -126,7 +126,7 @@ In a relational database (RDBMS), data about users and their hobbies would be st
 
 In a relational database (RDBMS), data about users and their hobbies would be stored in separate tables, requiring joins to retrieve all information. In a NoSQL document database, all related information can be stored in a single document, making queries faster and simpler.
 
-# Differences Between RDBMS and NoSQL Databases
+## Differences Between RDBMS and NoSQL Databases
 
 - **Data Modeling**: RDBMS uses tables; NoSQL uses various models (document, key-value, etc.).
 - **Schema**: RDBMS has a fixed schema; NoSQL has a flexible schema.
@@ -138,7 +138,7 @@ In a relational database (RDBMS), data about users and their hobbies would be st
 - **Distributed Computing**: NoSQL is designed for distributed data storage; RDBMS supports clustering and replication but is less flexible.
 - **Fault Tolerance**: NoSQL has built-in fault tolerance; RDBMS relies on replication and backup mechanisms.
 
-# When Should NoSQL be Used?
+## When Should NoSQL be Used?
 
 ## Use NoSQL databases when:
 
