@@ -41,7 +41,8 @@ Value: {"name": "foo bar", "email": "foo@bar.com", "designation": "software deve
 
 ```
 
-**Wide-Column Stores:** Store data in tables with rows and dynamic columns. Examples: Apache Cassandra, HBase.
+**Wide-Column Stores:** 
+Store data in tables with rows and dynamic columns. Examples: Apache Cassandra, HBase.
 A typical example of how data is stored in a wide-column is as follows:
 
 | name      | id    | email        | dob        | city      |
@@ -64,6 +65,11 @@ Below is an example of how data is stored:
 # Brief History of NoSQL Databases
 
 NoSQL databases emerged in the late 2000s due to the need to store and manage large volumes of diverse data efficiently. They gained popularity as the cost of storage decreased and applications required more flexible data management solutions.
+
+## Quick comparison of types of databases — NoSQL
+
+[](![Screenshot from 2024-07-06 12-34-27](https://github.com/lalitha145/repo-concepts/assets/97296095/ad17d5c5-67a0-4d0e-869b-ff19f0d5a1b1)
+)
 
 ## NoSQL Database Features
 
