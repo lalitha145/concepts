@@ -163,4 +163,9 @@ In a relational database (RDBMS), data about users and their hobbies would be st
 
 NoSQL databases provide a variety of benefits, including flexible data models, horizontal scaling, lightning-fast queries, and ease of use for developers. NoSQL databases come in a variety of types, including document stores, key-values databases, wide-column stores, graph databases, and multi-model databases.
 
+# References
+
+(https://www.mongodb.com/resources/basics/databases/nosql-explained)[NoSQL Explained](https://www.mongodb.com/resources/basics/databases/nosql-explained)
+
+
 
