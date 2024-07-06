@@ -147,3 +147,20 @@ In a relational database (RDBMS), data about users and their hobbies would be st
 - Handling large volumes of data.
 - Needing scalable architecture.
 - Working with modern application paradigms like microservices.
+
+ ## NoSQL database misconceptions
+ 
+ Misconceptions About NoSQL Databases
+
+1. **Misconception**: NoSQL can't handle relationship data.
+   - **Reality**: NoSQL databases can store relationship data differently, often more efficiently.
+
+2. **Misconception**: NoSQL doesn't support ACID transactions.
+   - **Reality**: Some NoSQL databases, like MongoDB, do support ACID transactions.
+
+ 
+# Summary
+
+NoSQL databases provide a variety of benefits, including flexible data models, horizontal scaling, lightning-fast queries, and ease of use for developers. NoSQL databases come in a variety of types, including document stores, key-values databases, wide-column stores, graph databases, and multi-model databases.
+
+
