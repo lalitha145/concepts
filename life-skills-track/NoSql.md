@@ -35,9 +35,11 @@ A typical document will look like the following:
 
 A simple view of data stored in a key-value database is given below:
 
-`Key: user:12345
+```
+Key: user:12345
 Value: {"name": "foo bar", "email": "foo@bar.com", "designation": "software developer"}
-`
+
+```
 
 **Wide-Column Stores:** Store data in tables with rows and dynamic columns. Examples: Apache Cassandra, HBase.
 A typical example of how data is stored in a wide-column is as follows:
