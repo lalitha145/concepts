@@ -51,7 +51,8 @@ A typical example of how data is stored in a wide-column is as follows:
 Examples: Neo4J, Amazon Neptune.
 
 Below is an example of how data is stored:
-![Graph Data Model](image.png)
+![Graph Data Model](![Screenshot from 2024-07-06 12-15-54](https://github.com/lalitha145/repo-concepts/assets/97296095/9ee0f082-6d3e-4da9-9527-d0504ccfba25)
+)
 
 
 **Multi-Model Databases:** Support multiple types of data models. Examples: CosmosDB, ArangoDB.
@@ -68,7 +69,7 @@ NoSQL databases emerged in the late 2000s due to the need to store and manage la
 - **Ease of Use for Developers**: Simplifies data management.
 - **High Availability**: Ensures data is always accessible.
 - **BASE Compliance**: Basic Availability, Soft state, Eventual consistency.
-- 
+
 # Relational Database vs NoSQL Database Example
 
 In a relational database (RDBMS), data about users and their hobbies would be stored in separate tables, requiring joins to retrieve all information. In a NoSQL document database, all related information can be stored in a single document, making queries faster and simpler.
