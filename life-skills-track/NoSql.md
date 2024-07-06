@@ -51,7 +51,7 @@ A typical example of how data is stored in a wide-column is as follows:
 Examples: Neo4J, Amazon Neptune.
 
 Below is an example of how data is stored:
-![Graph Data Model](![Screenshot from 2024-07-06 12-15-54](https://github.com/lalitha145/repo-concepts/assets/97296095/9ee0f082-6d3e-4da9-9527-d0504ccfba25)
+(![Screenshot from 2024-07-06 12-15-54](https://github.com/lalitha145/repo-concepts/assets/97296095/9ee0f082-6d3e-4da9-9527-d0504ccfba25)
 )
 
 
