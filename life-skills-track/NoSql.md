@@ -9,7 +9,7 @@ NoSQL databases, short for "not only SQL," store data differently than tradition
 NoSQL databases refer to non-relational databases that store data in a flexible, natural way. They are not restricted to SQL and can handle various types of data formats and structures.
 
 ## Types of NoSQL Databases
-**1.Document-Oriented Databases:** Store data in documents similar to JSON objects.
+**1. Document-Oriented Databases:** Store data in documents similar to JSON objects.
 Examples: MongoDB, Couchbase.
 
 A typical document will look like the following:
@@ -31,7 +31,7 @@ A typical document will look like the following:
 
 ```
 
-**2.Key-Value Databases:** Store data as key-value pairs. Examples: Amazon DynamoDB, Redis.
+**2. Key-Value Databases:** Store data as key-value pairs. Examples: Amazon DynamoDB, Redis.
 
 A simple view of data stored in a key-value database is given below:
 
@@ -41,7 +41,7 @@ Value: {"name": "foo bar", "email": "foo@bar.com", "designation": "software deve
 
 ```
 
-**3.Wide-Column Stores:** 
+**3. Wide-Column Stores:** 
 Store data in tables with rows and dynamic columns. Examples: Apache Cassandra, HBase.
 A typical example of how data is stored in a wide-column is as follows:
 
@@ -52,7 +52,7 @@ A typical example of how data is stored in a wide-column is as follows:
 
 
 
-**4.Graph Databases:** Store data as nodes and edges, representing entities and their relationships. 
+**4. Graph Databases:** Store data as nodes and edges, representing entities and their relationships. 
 Examples: Neo4J, Amazon Neptune.
 
 Below is an example of how data is stored:
@@ -60,7 +60,7 @@ Below is an example of how data is stored:
 
 
 
-**5.Multi-Model Databases:** Support multiple types of data models. Examples: CosmosDB, ArangoDB.
+**5. Multi-Model Databases:** Support multiple types of data models. Examples: CosmosDB, ArangoDB.
 
 ## Brief History of NoSQL Databases
 
