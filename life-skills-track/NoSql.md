@@ -57,7 +57,7 @@ Examples: Neo4J, Amazon Neptune.
 
 Below is an example of how data is stored:
 ![Screenshot from 2024-07-06 12-15-54](https://github.com/lalitha145/repo-concepts/assets/97296095/9ee0f082-6d3e-4da9-9527-d0504ccfba25)
-)
+
 
 
 **Multi-Model Databases:** Support multiple types of data models. Examples: CosmosDB, ArangoDB.
@@ -69,7 +69,7 @@ NoSQL databases emerged in the late 2000s due to the need to store and manage la
 ## Quick comparison of types of databases — NoSQL
 
 ![Screenshot from 2024-07-06 12-34-27](https://github.com/lalitha145/repo-concepts/assets/97296095/ad17d5c5-67a0-4d0e-869b-ff19f0d5a1b1)
-)
+
 
 ## NoSQL Database Features
 
@@ -122,3 +122,28 @@ In a relational database (RDBMS), data about users and their hobbies would be st
   - NoSQL has built-in fault tolerance
   - RDBMS relies on replication and backup mechanisms
 
+# Relational database vs NoSQL database example
+
+In a relational database (RDBMS), data about users and their hobbies would be stored in separate tables, requiring joins to retrieve all information. In a NoSQL document database, all related information can be stored in a single document, making queries faster and simpler.
+
+# Differences Between RDBMS and NoSQL Databases
+
+- **Data Modeling**: RDBMS uses tables; NoSQL uses various models (document, key-value, etc.).
+- **Schema**: RDBMS has a fixed schema; NoSQL has a flexible schema.
+- **Query Language**: RDBMS uses SQL; NoSQL uses different query languages based on the database type.
+- **Scalability**: RDBMS is designed for vertical scaling; NoSQL is designed for both vertical and horizontal scaling.
+- **Data Relationships**: RDBMS uses joins; NoSQL can nest related data within documents.
+- **Transaction Type**: RDBMS transactions are ACID-compliant; NoSQL can be ACID or BASE-compliant.
+- **Performance**: RDBMS is suitable for read-heavy workloads; NoSQL is suitable for real-time processing and big data analytics.
+- **Distributed Computing**: NoSQL is designed for distributed data storage; RDBMS supports clustering and replication but is less flexible.
+- **Fault Tolerance**: NoSQL has built-in fault tolerance; RDBMS relies on replication and backup mechanisms.
+
+# When Should NoSQL be Used?
+
+## Use NoSQL databases when:
+
+- Developing in an Agile environment.
+- Storing structured and semi-structured data.
+- Handling large volumes of data.
+- Needing scalable architecture.
+- Working with modern application paradigms like microservices.
