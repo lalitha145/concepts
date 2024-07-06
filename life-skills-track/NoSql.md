@@ -74,11 +74,11 @@ NoSQL databases emerged in the late 2000s due to the need to store and manage la
 ## NoSQL Database Features
 
 - **Distributed Computing**: Data is spread across multiple servers.
-- **Scalability**: Easily handles growing data volumes.
-- **Flexible Schemas**: Adaptable to changes in data structure.
-- **Ease of Use for Developers**: Simplifies data management.
-- **High Availability**: Ensures data is always accessible.
-- **BASE Compliance**: Basic Availability, Soft state, Eventual consistency.
+- **Scalability** : Easily handles growing data volumes.
+- **Flexible Schemas** : Adaptable to changes in data structure.
+- **Ease of Use for Developers** : Simplifies data management.
+- **High Availability** : Ensures data is always accessible.
+- **BASE Compliance** : Basic Availability, Soft state, Eventual consistency.
 
 ## Relational Database vs NoSQL Database Example
 
@@ -129,14 +129,14 @@ In a relational database (RDBMS), data about users and their hobbies would be st
 ## Differences Between RDBMS and NoSQL Databases
 
 - **Data Modeling**: RDBMS uses tables; NoSQL uses various models (document, key-value, etc.).
-- **Schema**: RDBMS has a fixed schema; NoSQL has a flexible schema.
-- **Query Language**: RDBMS uses SQL; NoSQL uses different query languages based on the database type.
-- **Scalability**: RDBMS is designed for vertical scaling; NoSQL is designed for both vertical and horizontal scaling.
-- **Data Relationships**: RDBMS uses joins; NoSQL can nest related data within documents.
-- **Transaction Type**: RDBMS transactions are ACID-compliant; NoSQL can be ACID or BASE-compliant.
-- **Performance**: RDBMS is suitable for read-heavy workloads; NoSQL is suitable for real-time processing and big data analytics.
-- **Distributed Computing**: NoSQL is designed for distributed data storage; RDBMS supports clustering and replication but is less flexible.
-- **Fault Tolerance**: NoSQL has built-in fault tolerance; RDBMS relies on replication and backup mechanisms.
+- **Schema** : RDBMS has a fixed schema; NoSQL has a flexible schema.
+- **Query Language** : RDBMS uses SQL; NoSQL uses different query languages based on the database type.
+- **Scalability** : RDBMS is designed for vertical scaling; NoSQL is designed for both vertical and horizontal scaling.
+- **Data Relationships** : RDBMS uses joins; NoSQL can nest related data within documents.
+- **Transaction Type** : RDBMS transactions are ACID-compliant; NoSQL can be ACID or BASE-compliant.
+- **Performance** : RDBMS is suitable for read-heavy workloads; NoSQL is suitable for real-time processing and big data analytics.
+- **Distributed Computing** : NoSQL is designed for distributed data storage; RDBMS supports clustering and replication but is less flexible.
+- **Fault Tolerance** : NoSQL has built-in fault tolerance; RDBMS relies on replication and backup mechanisms.
 
 ## When Should NoSQL be Used?
 
@@ -152,11 +152,11 @@ In a relational database (RDBMS), data about users and their hobbies would be st
  
  Misconceptions About NoSQL Databases
 
-1. **Misconception**: NoSQL can't handle relationship data.
-   - **Reality**: NoSQL databases can store relationship data differently, often more efficiently.
+1. **Misconception** : NoSQL can't handle relationship data.
+   - **Reality** : NoSQL databases can store relationship data differently, often more efficiently.
 
-2. **Misconception**: NoSQL doesn't support ACID transactions.
-   - **Reality**: Some NoSQL databases, like MongoDB, do support ACID transactions.
+2. **Misconception** : NoSQL doesn't support ACID transactions.
+   - **Reality** : Some NoSQL databases, like MongoDB, do support ACID transactions.
 
  
 # Summary
