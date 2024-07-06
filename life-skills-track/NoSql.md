@@ -56,7 +56,7 @@ A typical example of how data is stored in a wide-column is as follows:
 Examples: Neo4J, Amazon Neptune.
 
 Below is an example of how data is stored:
-(![Screenshot from 2024-07-06 12-15-54](https://github.com/lalitha145/repo-concepts/assets/97296095/9ee0f082-6d3e-4da9-9527-d0504ccfba25)
+![Screenshot from 2024-07-06 12-15-54](https://github.com/lalitha145/repo-concepts/assets/97296095/9ee0f082-6d3e-4da9-9527-d0504ccfba25)
 )
 
 
@@ -68,7 +68,7 @@ NoSQL databases emerged in the late 2000s due to the need to store and manage la
 
 ## Quick comparison of types of databases — NoSQL
 
-[](![Screenshot from 2024-07-06 12-34-27](https://github.com/lalitha145/repo-concepts/assets/97296095/ad17d5c5-67a0-4d0e-869b-ff19f0d5a1b1)
+![Screenshot from 2024-07-06 12-34-27](https://github.com/lalitha145/repo-concepts/assets/97296095/ad17d5c5-67a0-4d0e-869b-ff19f0d5a1b1)
 )
 
 ## NoSQL Database Features
