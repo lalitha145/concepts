@@ -167,7 +167,7 @@ NoSQL databases provide a variety of benefits, including flexible data models, h
 
 [NoSQL Explained](https://www.mongodb.com/resources/basics/databases/nosql-explained)
 
+[How NoSQL works ](https://www.youtube.com/watch?v=0buKQHokLK8)
 
-
-
-
+[Types of NoSQL databases](
+https://www.geeksforgeeks.org/types-of-nosql-databases/)
