@@ -33,7 +33,7 @@ A typical document will look like the following:
 
 **2. Key-Value Databases:** Store data as key-value pairs. Examples: Amazon DynamoDB, Redis.
 
-A simple view of data stored in a key-value database is given below:
+ A simple view of data stored in a key-value database is given below:
 
 ```
 Key: user:12345
