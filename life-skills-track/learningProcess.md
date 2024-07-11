@@ -14,11 +14,11 @@ The most interesting thing in this video was about the Pomodoro Technique:
 
 "The Pomodoro Technique is a way to manage your time better. It helps you work in short bursts with breaks in between."
 
-- **Pick a Task**: Choose something you need to work on.
-- **Set a Timer**: Set a timer for 25 minutes.
-- **Work**: Focus and work on your task until the timer rings.
-- **Take a Break**: When the timer rings, take a 5-minute break.
-- **Repeat**: Do this four times, then take a longer break of 15-30 minutes.
+- **Pick a Task** : Choose something you need to work on.
+- **Set a Timer** : Set a timer for 25 minutes.
+- **Work** : Focus and work on your task until the timer rings.
+- **Take a Break** : When the timer rings, take a 5-minute break.
+- **Repeat** : Do this four times, then take a longer break of 15-30 minutes.
 
 ---
 
