@@ -75,7 +75,7 @@ JavaScript provides several methods to access and interact with the DOM. These m
 
 - **By Tag Name**: document.getElementsByTagName(tagName)
 
-```var elements = document.getElementsByTagName("tagName");``
+```var elements = document.getElementsByTagName("tagName");```
 
  - **By CSS Selector**: document.querySelector(selector) and document.querySelectorAll(selector)
 
@@ -99,7 +99,7 @@ var elements = document.querySelectorAll(".className");
 
 ```element.removeAttribute("class");```
 
-`**Access Properties**:
+**Access Properties**:
 
 ```
 var id = element.id;
