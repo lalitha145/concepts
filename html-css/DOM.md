@@ -66,16 +66,22 @@ JavaScript provides several methods to access and interact with the DOM. These m
 ### Selecting Elements
 - **By ID**: document.getElementById(id)
 
-``` var element = document.getElementById("elementId"); ```
+```
+var element = document.getElementById("elementId");
+ ```
 
 
 - **By Class Name**: document.getElementsByClassName(className)
   
-```var elements = document.getElementsByClassName("className");```
+```
+var elements = document.getElementsByClassName("className");
+```
 
 - **By Tag Name**: document.getElementsByTagName(tagName)
 
-```var elements = document.getElementsByTagName("tagName");```
+```
+var elements = document.getElementsByTagName("tagName");
+```
 
  - **By CSS Selector**: document.querySelector(selector) and document.querySelectorAll(selector)
 
@@ -88,16 +94,22 @@ var elements = document.querySelectorAll(".className");
 
 **Get Attribute**: element.getAttribute(attributeName)
 
-```var attr = element.getAttribute("class");```
+```
+var attr = element.getAttribute("class");
+```
 
 **Set Attribute**: element.setAttribute(attributeName, value)
 
 
-```element.setAttribute("class", "newClass");```
+```
+element.setAttribute("class", "newClass");
+```
 
 **Remove Attribute**: element.removeAttribute(attributeName)
 
-```element.removeAttribute("class");```
+```
+element.removeAttribute("class");
+```
 
 **Access Properties**:
 
@@ -114,11 +126,15 @@ Once you have selected elements, you can manipulate them using various propertie
 
 **Inner HTML**: element.innerHTML
 
-```element.innerHTML = "New Content";```
+```
+element.innerHTML = "New Content";
+```
 
 **Text Content**: element.textContent
 
-```element.textContent = "New Text Content";```
+```
+element.textContent = "New Text Content";
+```
 
 ### Changing Styles
 
@@ -148,22 +164,30 @@ var newElement = document.createElement("div");
 
 **Append Child**: parentElement.appendChild(newElement)
 
-```document.body.appendChild(newElement);```
+```
+document.body.appendChild(newElement);
+```
 
 **Insert Before**: parentElement.insertBefore(newElement, referenceElement)
 
-```parentElement.insertBefore(newElement, referenceElement);```
+```
+parentElement.insertBefore(newElement, referenceElement);
+```
 
 
 ## Removing Elements
 
  **Remove Child**: parentElement.removeChild(childElement)
 
- ```parentElement.removeChild(childElement);```
+ ```
+ parentElement.removeChild(childElement);
+```
 
 **Remove: element.remove()**
 
-```element.remove();```
+```
+element.remove();
+```
 
 ## Event Handling
 
@@ -210,11 +234,15 @@ DOM traversal refers to navigating through the DOM tree. JavaScript provides sev
 
 **Parent Node: element.parentNode**
 
-```var parent = element.parentNode;```
+```
+var parent = element.parentNode;
+```
 
 **Closest Ancestor: element.closest(selector)**
 
-```var closest = element.closest(".className");```
+```
+var closest = element.closest(".className");
+```
 
 
 ## Traversing Down the DOM Tree
@@ -223,7 +251,9 @@ DOM traversal refers to navigating through the DOM tree. JavaScript provides sev
 **Child Nodes: element.childNodes**
 
 
-``` var children = element.childNodes;```
+```
+var children = element.childNodes;
+```
 
 
 **First and Last Child: element.firstChild, element.lastChild**
@@ -236,11 +266,15 @@ var lastChild = element.lastChild;
 
 **Next Sibling: element.nextSibling**
 
-```var next = element.nextSibling;```
+```
+var next = element.nextSibling;
+```
 
 **Previous Sibling: element.previousSibling**
 
-``` var prev = element.previousSibling;```
+```
+var prev = element.previousSibling;
+```
 
 
 
